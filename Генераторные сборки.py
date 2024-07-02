@@ -16,7 +16,7 @@ def oper(operation):  # Задача 1:
 
 
 my_func = oper('div')
-print(my_func(3, 0))
+print(my_func(3, 3))
 
 my_func = oper('mult')
 print(my_func(3, 3))
